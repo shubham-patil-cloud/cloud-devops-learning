@@ -455,7 +455,8 @@ AWS + DevOps
 - [x] What is an OS?
 - [x] What is the Linux kernel?
 - [x] Linux vs Distribution
-- [x] What is a Linux distribution?
+- [x] What is a Linux distribution
+- [x] Linux vs Windows
 - [x] Amazon Linux
 - [x] Ubuntu
 - [x] What is Shell?
