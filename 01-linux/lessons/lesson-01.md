@@ -110,6 +110,7 @@ Linux = **Kernel**
 
 A Linux distribution combines the Linux kernel with other software to create a complete operating system.
 
+
 Examples:
 
 - Ubuntu
